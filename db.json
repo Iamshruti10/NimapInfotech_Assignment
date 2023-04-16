@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "category": [
+    {
+      "catagoryid": 1,
+      "categoryName": "Laptop",
+      "productid": 1,
+      "productName": "Dell",
+      "id": 1
+    },
+    {
+      "catagoryid": 2,
+      "categoryName": "Laptop",
+      "productid": 2,
+      "productName": "Lenovo",
+      "id": 2
+    },
+    {
+      "catagoryid": 3,
+      "categoryName": "Laptop",
+      "productid": 3,
+      "productName": "MSI",
+      "id": 3
+    },
+    {
+      "catagoryid": 4,
+      "categoryName": "Laptop",
+      "productid": 4,
+      "productName": "Honor",
+      "id": 4
+    },
+    {
+      "catagoryid": 5,
+      "categoryName": "Laptop",
+      "productid": 5,
+      "productName": "Hp",
+      "id": 5
+    },
+    {
+      "catagoryid": 6,
+      "categoryName": "Laptop",
+      "productid": 6,
+      "productName": "Asus",
+      "id": 6
+    }
+  ]
+ 
+}
